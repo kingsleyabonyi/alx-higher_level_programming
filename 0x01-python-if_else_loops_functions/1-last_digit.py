@@ -11,5 +11,4 @@ if remainder > 5:
 elif remainder == 0:
     ('and is 0')
 else:
-    print('and is less than 6 and not 0')
-    
+    print('and is less than 6 and not 0')   
