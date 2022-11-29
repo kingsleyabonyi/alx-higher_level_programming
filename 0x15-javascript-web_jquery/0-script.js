@@ -1,15 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Holberton School</title>
-  </head>
-  <body>
-    <header> 
-      First HTML page
-    </header>
-    <footer>
-      Holberton School - 2017
-    </footer>
-    <script type="text/javascript" src="0-script.js"></script>
-  </body>
-</html>
+const headerElem = document.querySelector('HEADER');
+headerElem.style.color = '#FF0000';
