@@ -1,4 +1,3 @@
-ble file 23 lines (19 sloc) 738 Bytes
 #!/usr/bin/python3
 """ a script that lists all City objects from the database hbtn_0e_6_usa"""
 
