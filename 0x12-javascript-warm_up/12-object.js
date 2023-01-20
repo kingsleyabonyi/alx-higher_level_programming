@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 const myObject = {
   type: 'object',
